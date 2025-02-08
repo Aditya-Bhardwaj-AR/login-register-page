@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background:url(r2.gif);
+    background-image:url(photos/r3.gif);
     background-size: cover;
     background-position: center;
 }
